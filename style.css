@@ -1,0 +1,10 @@
+.logo{ width: 25%;
+margin-left: 10px;}
+
+.nav-item{ margin: 10px;
+font-weight: bold;}
+
+.header{background-color: rgb(241, 237, 237);
+display: flex;
+justify-content: space-around;}
+  
