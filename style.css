@@ -4,7 +4,19 @@ margin-left: 10px;}
 .nav-item{ margin: 10px;
 font-weight: bold;}
 
-.header{background-color: rgb(241, 237, 237);
+.header{background-color: rgb(223, 217, 217);
 display: flex;
 justify-content: space-around;}
+
+.sec1pic{ position: relative;}
+
+.section{display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+align-items: center;}
+
+.sec1content{color: white;
+position: absolute;
+}
+
   
