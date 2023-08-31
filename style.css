@@ -44,3 +44,47 @@ nav {
     background-color:green ;
     border-radius: 8px;
 }
+
+.container{ width: 100%;
+height: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+padding: 0 70px;}
+
+.left{ width: 60%;}
+
+.right{ width: 30%  ;}
+
+.left h2{ font-family: 'Poppins', sans-serif;
+    color: green;
+}
+
+.left h1{
+    font-family: 'Kalam', cursive;
+    font-size: 5em;
+}
+
+.left p{
+    font-family: 'Poppins', sans-serif;
+    line-height: 2.5rem;
+}
+
+#hire{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}
+
+#myp{text-decoration: none;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    border: 1px dashed white;
+    font-size: 1.5rem;
+    margin: 0 1rem;}
